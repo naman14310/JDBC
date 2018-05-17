@@ -1,4 +1,4 @@
-package java_database_connectivity;
+package javaDatabaseConnectivity;
 
 
 import java.sql.Connection;
